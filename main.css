@@ -20,5 +20,14 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 5px;
-
 }
+
+h1 { 
+	text-align: center;
+	padding-top: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 35px;
+    color: #565656;
+
+ }
