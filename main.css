@@ -49,3 +49,9 @@ h1 {
  	border-radius: 5px;
     margin-bottom: 15px;
  }
+
+ .signup-form input::-webkit-input-placeholder { 
+ 	/* Chrome/Opera/Safari */
+  color: gray;
+  font-size: 18px;
+}
