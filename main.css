@@ -37,3 +37,7 @@ h1 {
   	border: none;
  }
  
+ .signup-form label {
+ 	display: block;
+ 	margin-bottom: 5px;
+ }
