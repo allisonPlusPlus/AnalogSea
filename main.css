@@ -62,8 +62,14 @@ h1 {
   font-size: 18px;
 }
 
-.demo-form input:-ms-input-placeholder { 
+.signup-form input:-ms-input-placeholder { 
 	/* IE 10+ */
+  color: gray;
+  font-size: 18px;
+}
+
+.signup-form input:-moz-placeholder {
+ /* Firefox 18- */
   color: gray;
   font-size: 18px;
 }
