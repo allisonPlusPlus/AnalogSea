@@ -55,3 +55,9 @@ h1 {
   color: gray;
   font-size: 18px;
 }
+
+.signup-form input::::-moz-placeholder { /* Firefox 19+ */
+  color: gray;
+  font-size: 18px;
+}
+
