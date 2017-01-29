@@ -1,5 +1,6 @@
 body {
 	background-color: #298eea;
+	font-family:  'Roboto', helvetica, sans-serif;
 }
 
 .logo {
@@ -84,11 +85,6 @@ button {
 	color: white;
 	font-size: 22px;
  }
-
-.signup-form a {
-
-}
-
 
 
 
