@@ -99,7 +99,15 @@ button {
 	color: #777;
 }
 
+.login p {
+	color: white;
+	font-weight: bold;
+    text-align: center;
+}
 
+.login a {
+	color: white;
+}
 
 
 
