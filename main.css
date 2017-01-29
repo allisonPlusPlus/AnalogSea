@@ -50,6 +50,7 @@ h1 {
  	border: 2px solid #e7e7e7;
  	border-radius: 5px;
     margin-bottom: 15px;
+    font-size: 18px;
  }
 
  .signup-form input::-webkit-input-placeholder { 
