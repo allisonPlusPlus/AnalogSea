@@ -113,7 +113,9 @@ button {
 	color: white;
 }
 
-
+.login a:hover {
+	color: #E7F1F9;
+}
 
 
 
