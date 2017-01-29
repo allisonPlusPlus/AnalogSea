@@ -73,3 +73,27 @@ h1 {
   color: gray;
   font-size: 18px;
 }
+
+button { 
+	width: 320px;
+	height: 55px;
+	background-color: #15CD72;
+	border: 1px solid #15CD72;;
+	border-radius: 5px;
+	color: white;
+	font-size: 22px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
