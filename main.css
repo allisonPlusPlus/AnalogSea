@@ -85,6 +85,10 @@ button {
 	font-size: 22px;
  }
 
+ button:hover {
+ 	background-color: #3CB371;
+ }
+
 .signup-form p {
 	text-align: center;
 }
